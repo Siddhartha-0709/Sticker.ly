@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">sticker.ly</string>
+    <string name="your_saved_notes">Your Saved Notes</string>
+    <string name="save_note_to_database">Save Note to Database</string>
+</resources>
